@@ -8,7 +8,7 @@
 
 5. Create a package named shape with three classes Square, Rectangle and Circle with a method to find the area of the specific shape. Develop a java program to perform the above operation by importing the package.
 
-6 .Create an interface named Series with two methods printFibonacci() and printPrime(). Develop a java program to create a class by implementing the Series interface to print first 10 values of fibonacci series and prime numbers
+6. Create an interface named Series with two methods printFibonacci() and printPrime(). Develop a java program to create a class by implementing the Series interface to print first 10 values of fibonacci series and prime numbers
 
 7. Create a class Circle with radius as member and area() as method to find the area of circle. Derive a class Cylinder from the Circle class with height as member and volume() as method to find the volume of cylinder which utilizes the Circle class area() method. Derive another class from Cylinder class with volume as method to find the volume of cone which utilizes cylinder volume. Develop a class with main() method to demonstrate the inheritance
 
