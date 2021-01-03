@@ -1,6 +1,6 @@
 1. Create a package named calculate with three classes Addition, Subtraction and Multiplication with a method to performing addition, subtraction and multiplication operation respectively. Develop a java program to perform the above operation by importing the package.
 [CODE](https://github.com/sriramanandhu/JavaProg/tree/main/modelProgram/m01OperatorDemo)
-[JDoodle](jdoodle.com/ia/6lE)
+[JDoodle](https://www.jdoodle.com/ia/6lE)
 
 2. Create an interface named Search with two methods linearSearch() and binarySearch(). Develop a java program to create a class by implementing the search interface to perform linear and binary search operation from a set of values
 [CODE](https://github.com/sriramanandhu/JavaProg/tree/main/modelProgram/m02SearchDemo)
